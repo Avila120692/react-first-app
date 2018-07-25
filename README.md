@@ -1,4 +1,4 @@
-# TMy first React Project !
+# My first React Project
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
